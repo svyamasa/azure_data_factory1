@@ -1,1 +1,0 @@
-# azure_data_factory1
